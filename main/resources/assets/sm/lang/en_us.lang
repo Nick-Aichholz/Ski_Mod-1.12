@@ -1,0 +1,15 @@
+item.ingot_steel.name=Steel Ingot
+item.fur_yeti.name=Yeti Fur
+
+item.hoe_steel.name=Steel Hoe
+item.axe_steel.name=Steel Axe
+item.sword_steel.name=Steel Sword
+item.shovel_steel.name=Steel Shovel
+item.pickaxe_steel.name=Steel Pickaxe
+
+item.helmet_yeti.name=Yeti Fur Helmet
+item.chestplate_yeti.name=Yeti Fur Chestplate
+item.leggings_yeti.name=Yeti Fur Leggings
+item.boots_yeti.name=Yeti Fur Boots
+
+tile.block_steel.name=Steel Block

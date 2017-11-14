@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "YYY",
+        "Y Y"
+    ],
+    
+    "key":
+    {
+        "Y":
+        {
+            "item": "sm:fur_yeti"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:helmet_yeti"
+    }
+}

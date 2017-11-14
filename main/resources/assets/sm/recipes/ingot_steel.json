@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "sm:block_steel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:ingot_steel",
+        "count": 9
+    }
+}
