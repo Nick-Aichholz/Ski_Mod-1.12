@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import nick.mod.proxy.CommonProxy;
 import nick.mod.util.Reference;
+import nick.mod.util.handlers.RegistryHandler;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
 public class Main 
@@ -20,7 +21,7 @@ public class Main
 	public static CommonProxy proxy;
 	
 	@EventHandler
-	public static void preInit(FMLPreInitializationEvent event) {}
+	public static void preInit(FMLPreInitializationEvent event) {RegistryHandler.preInitRegistries();}
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event) {}

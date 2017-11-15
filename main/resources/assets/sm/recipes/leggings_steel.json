@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "YYY",
+        "Y Y",
+        "Y Y"
+    ],
+    
+    "key":
+    {
+        "Y":
+        {
+            "item": "sm:ingot_steel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:leggings_steel"
+    }
+}

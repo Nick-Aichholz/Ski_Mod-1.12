@@ -15,8 +15,8 @@ public class BiomeWinter extends Biome
 	{
 		super(new BiomeProperties("Winter").setBaseHeight(1.0F).setHeightVariation(0.9F).setTemperature(0.1F).setRainDisabled().setSnowEnabled());
 		
-		topBlock = (IBlockState) Blocks.SNOW;
-		fillerBlock = (IBlockState) Blocks.SNOW;
+		/*topBlock = (IBlockState) Blocks.SNOW;
+		fillerBlock = (IBlockState) Blocks.SNOW;*/
 		
 		this.decorator.treesPerChunk = 2;
 		
